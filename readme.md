@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/Yarob50/First-Contribution-ARABIC">
-		<img src="header.svg" width="800" height="400" alt="طريقة المساهمة">
+		<img src="header.svg" width="700" height="350" alt="طريقة المساهمة">
 	</a>
 	<br>
 </div>
